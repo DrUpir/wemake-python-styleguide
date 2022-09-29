@@ -18,7 +18,7 @@ max-complexity = 6
 docstring-style = "numpy"
 
 # Violations:
-ignore = "D100,D104,D401,W504,RST303,RST304,DAR103,DAR203"
+ignore = "D100,D104,D401,W503,RST303,RST304,DAR103,DAR203"
 
 ["setup.cfg".isort]
 line_length = 80
